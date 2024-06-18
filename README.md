@@ -20,16 +20,13 @@
   <img src="https://img.shields.io/badge/-Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white">
 </div>
 
-
 <div align="center">
+  <img src="https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white">
   <img src="https://img.shields.io/badge/-React-00b4ce?style=flat-square&logo=react&logoColor=white">
   <img src="https://img.shields.io/badge/-Vue-4FC08D?style=flat-square&logo=vue.js&logoColor=white">
   <img src="https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white">
+  <img src="https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white">
 
-  <img src="https://img.shields.io/badge/-Git-ee462c?style=flat-square&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/-Docker-218bea?style=flat-square&logo=docker&logoColor=white">
   <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black">
+  <img src="https://img.shields.io/badge/-Docker-218bea?style=flat-square&logo=docker&logoColor=white">
 </div>
-
-
-
