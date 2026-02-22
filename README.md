@@ -7,13 +7,11 @@
 </p>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white">
-  <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white">
-  <img src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white">
 
   <img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat-square&logo=node.js&logoColor=white">
   <img src="https://img.shields.io/badge/-JavaScript-f6da1c?style=flat-square&logo=javascript&logoColor=white">
   <img src="https://img.shields.io/badge/-TypeScript-2b6dbf?style=flat-square&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white">
 
   <img src="https://img.shields.io/badge/-Solidity-363636?style=flat-square&logo=solidity&logoColor=white">
   <img src="https://img.shields.io/badge/-Hardhat-F6851F?style=flat-square&logo=hardhat&logoColor=white">
